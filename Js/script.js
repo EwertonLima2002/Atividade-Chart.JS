@@ -12,7 +12,7 @@ const labels = [
     'Março',
     'Abril',
     'Maio',
-    'June',
+    'Junho',
   ];
 
   const data = {
